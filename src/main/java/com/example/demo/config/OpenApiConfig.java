@@ -23,4 +23,8 @@ import io.swagger.oas .model.Server .servers
 impoer  io.swagger.v3.oas.model.server
 import  io.swagger.v3.open ai swagger into .annotation 
 Sservice .context annotation .configuration 
-import org.springframework 
+import org.springframework .content.anntation .beans
+import org.springwork (List off) 
+       return new OpenApi() 
+       .service (List.of)
+       new(server .url )
