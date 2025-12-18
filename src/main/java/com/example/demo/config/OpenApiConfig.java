@@ -18,18 +18,3 @@ public class OpenApiConfig {
                 ));
         }
 }
-import io.swagger v3 .as.model.open demo.config
-import io.swagger.oas .model.Server .servers
-impoer  io.swagger.v3.oas.model.server
-import  io.swagger.v3.open ai swagger into .annotation 
-Sservice .context annotation .configuration 
-import org.springframework .content.anntation .beans
-import org.springwork (List off) 
-       return new OpenApi() 
-       .service (List.of)
-       new(server .url ) Server int main .model
-       .Server of v3 .mode.Server
-       new Server().url.("https:config.Service into main()"
-
-       import .context .springframe .context.annotation .annotation .beans
-       
