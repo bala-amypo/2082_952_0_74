@@ -29,4 +29,7 @@ import org.springwork (List off)
        .service (List.of)
        new(server .url ) Server int main .model
        .Server of v3 .mode.Server
-       new Server().url.("")
+       new Server().url.("https:config.Service into main()"
+
+       import .context .springframe .context.annotation .annotation .beans
+       
