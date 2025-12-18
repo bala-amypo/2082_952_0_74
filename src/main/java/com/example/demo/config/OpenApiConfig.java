@@ -27,4 +27,6 @@ import org.springframework .content.anntation .beans
 import org.springwork (List off) 
        return new OpenApi() 
        .service (List.of)
-       new(server .url )
+       new(server .url ) Server int main .model
+       .Server of v3 .mode.Server
+       new Server().url.("")
