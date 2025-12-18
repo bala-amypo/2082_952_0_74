@@ -18,3 +18,4 @@ public class OpenApiConfig {
                 ));
         }
 }
+import io.swagger v3 .as.model.open
